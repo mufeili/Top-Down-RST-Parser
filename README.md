@@ -40,6 +40,10 @@ Evaluate on test set for D2E, D2S2E and D2P2S2E with 5 ensemble setting.
 bash script/evaluate.sh
 ```
 
+### RST generation from a raw document
+
+#### EDU Segmentation
+
 ## Data format
 
 We use RSTDT dataset preprocessed [by Heilman's code](https://github.com/EducationalTestingService/discourse-parsing).
